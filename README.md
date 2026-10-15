@@ -20,8 +20,6 @@ python3 -m http.server 8000
 | 脑力小测 Quiz Game | https://github.com/uly609/quiz-game | https://quiz-game-woad-kappa.vercel.app/ |
 | 今天吃什么 · 菜单搜索器 | https://github.com/uly609/menu-search | https://menu-search-ruddy.vercel.app/ |
 
-## 作业信息
+## 页面信息
 
 - 姓名：王浩蒙
-- 学号：2323040230
-- 班级：计科2404
